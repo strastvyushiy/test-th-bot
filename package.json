@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "firebase": "^10.1.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "uid": "^2.0.2"
+  }
+}
